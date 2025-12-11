@@ -1,136 +1,83 @@
-“Explain the workflow and process in your company.”
-
-You can speak this exactly in your interview.
-
-⭐ Interview Answer: Workflow & Process in My Company
-
-“In my company, we follow an Agile Scrum process with 2-week sprint cycles.
-Our workflow usually happens in these steps:
-
-1. Requirement Gathering & Grooming
-
-The Product Owner shares user stories in Jira (or project tool).
-
-We attend grooming sessions to understand the functionality.
-
-Discuss acceptance criteria, dependencies, and clarifications.
-
-2. Sprint Planning
-
-Stories are prioritized for the sprint.
-
-Each team member estimates story points.
-
-Testing scope and automation feasibility are identified.
-
-3. Designing Test Scenarios & Test Cases
-
-Based on user stories and acceptance criteria:
-
-Prepare test scenarios
-
-Prepare manual test cases
-
-Identify regression test cases
-
-Mark what can be automated
-
-Test cases are reviewed internally.
-
-4. Test Environment Setup
-
-Build is deployed to QA/UAT environment
-
-We check environment stability
-
-Configurations, test data, and credentials are prepared
-
-5. Manual Testing
-
-We perform:
-
-Functional testing
-
-UI testing
-
-Regression testing
-
-Integration testing
-
-API testing
-
-End-to-end flow verification
-
-Defects are logged in Jira with:
-
-Steps to reproduce
-
-Screenshots
-
-Priority & severity
-
-Logs/screens recordings if needed
-
-6. Automation Testing
-
-Parallel to manual testing, I automate:
-
-High priority regression test cases
-
-Repetitive flows
-
-API validations
-
-Cross-module scenarios
-
-Tools I used:
-
-RepFabric CRM → Selenium + Java + TestNG (POM framework)
-
-ShadowCaster → Katalon Studio (Hybrid + Custom Keywords + Data-Driven)
-
-Automation scripts are reviewed and merged with version control (Git).
-
-7. Daily Scrum Meetings
-
-Share yesterday’s work
-
-Plan for today
-
-Discuss blockers
-
-Prioritize defect fixes with developers
-
-8. Retesting & Regression
-
-After dev fixes, we do:
-
-Retesting
-
-Full or partial regression suite execution
-
-Automation regression if needed
-
-9. Test Reporting
-
-I prepare and share:
-
-Daily status reports
-
-Defect summary
-
-Sprint-wise test execution report
-
-Automation execution report (if run in Jenkins)
-
-10. Sprint Review & Retrospective
-
-Demonstration of new functionalities
-
-Discuss what went well and what needs improvement
-
-Plan process improvements for next sprint
-
-⭐ Short 20-Second Version (If Interviewer Wants Brief Answer)
-
-“We follow an Agile Scrum process. We start with requirement grooming, then sprint planning. I prepare test scenarios, test cases, and identify automation candidates. After development, I perform functional, regression, and API testing, raise defects, and run automation scripts. We have daily stand-ups, test reporting, defect tracking, and sprint reviews. Automation and manual testing happen in parallel, and we deliver a stable build at the end of each sprint.”
+NAVYA Email: navyam988@gmail.com
+LinkedIn: linkedin.com/in/Navya
+Quality Assurance Engineer GitHub: https://github.com/Navya-M988
+Phone: +91 7619343771
+SUMMARY
+Dedicated Software Testing Engineer with 4 years of experience in Manual and Automation testing including Selenium, Java,
+API testing, mobile testing, and frameworks such as TestNG and Cucumber. I strive to enhance my skills and become a
+critical resource for my organization while pursuing a challenging career that leverages my technical expertise
+EXPERIENCE
+QA Engineer August 2022 - Present
+1.Indea Design Systems Pvt. Ltd Mangalore
+Provides robust software solutions with expertise in engineering-focused projects
+● Designed and executed manual and automated test cases, reducing
+regression testing time by 25%
+● Developed Selenium TestNG automation framework improving coverage
+efficiency
+● Executed Cypress automation scripts for Shadow-Caster, cutting manual
+testing efforts by 40%
+● Led Requirements Gathering & Analysis ensuring alignment with business
+objectives and Stakeholder expectations
+● Conducted API testing via Postman and GraphQL ensuring stable backend
+responses
+● Collaborated with cross-functional teams under Agile/Scrum, improving
+defect resolution speed by 15%
+Software Test Engineer Feb 2021-Feb 2022
+2.Infosys Private Limited Bangalore
+A multinational company providing expertise in business consulting, information
+technology, and outsourcing.
+● Performed Functional, Regression, Integration, and Sanity testing on
+multiple web-based applications
+● Automated critical test cases using Selenium Java leading to 20% faster
+release cycles
+● Participated in RCA sessions improving bug detection by 18%
+● Contributed to secure Salesforce portal testing for Health Network Lab
+project
+PROJECTS
+1.Rep Fabric and Shadow-Caster Aug 2022-Present
+CRM & Marine Lighting Web/Mobile Apps
+● Enhanced usability and business operations through API, web, and
+mobile testing
+● Validated backend logic and UI integrations ensuring seamless CRM
+performance
+2.Health Network Lab(HNL) and RTI Feb 2021-Feb 2022
+Salesforce Portal
+● Ensured secure access and usability improvements across portal
+modules through functional testing
+● Validated end-to-end Salesforce workflows and data sync for optimal
+system reliability
+SKILLS
+Programming Language:Java,Java
+Script
+Testing Tools: Selenium Webdriver,
+Cypress, Katalon studio,JIRA,
+Postman,GraphQL,Jenkins,Git/GitHub
+Test Frame Works: TestNG,
+Cucumber
+IDE:Eclipse,VS Code,InteliJ
+Database:Microsoft SQL Server
+Operating System: Windows
+XP,7,10,Linux
+Other Skills:Cross Browser
+Testing,Mobile App Testing, API
+testing,AutomationScript
+development,Integration testing,
+Security testing
+EDUCATION
+Bachelor of ComputerApplication
+Bhandarkar’s Arts &Science College
+Kundapura
+June 2018-December2020
+CERTIFICATIONS
+Certified Selenium Professional(CSP)
+offered by Agile Testing Alliance (ATA)
+AWARDS
+Received recognition for best
+mentoring champion award
+Training/Courses
+Selenium Web Driver with Java
+-Udemy
+Cypress Automation
+Testing+Frameworks-Udemy
+Katalon Studio and AI automation
+Testing- Katalon Academy
